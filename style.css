@@ -6,3 +6,7 @@ body {
 p {
   font-family: "Georgia", serif;
 }
+
+#friends-body {
+  text-align: right;
+}
