@@ -1,3 +1,7 @@
 body {
   background-color: lightgray;
 }
+
+p {
+  font-family: "Georgia", serif;
+}
